@@ -2,7 +2,7 @@
 
 ## Repo git
 
-Ceci est un repository git.
+Ceci est un repository git hébergé sur GitHub.
 
 ## Travaux pratiques
 
