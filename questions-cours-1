@@ -1,0 +1,3 @@
+Comment initialiser le dépot local avec Git ? --> Git init
+Quelle commqnde pour afficher tous les paramètres dans Git ? --> git config --list
+Comment créer une nouvelle branche et y basculer directement ? --> git checkout -b (nom de la branche)
